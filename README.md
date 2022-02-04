@@ -1,5 +1,11 @@
-# Data-Wrangling-Dataframes-visualisations--The-Android-App-Market-on-Google-Play
+# The-Android-App-Market-on-Google-Play
 Code for my DataCamp project, 'The Android App Market on Google Play'. Both Guided and Unguided projects.
+
+## Overall Description
+
+### A - Guided Project 📝
+
+### B - Unguided Project 📝🌟
 
 
 **'The Android App Market on Google Play' was developed by Lavanya Gupta  
